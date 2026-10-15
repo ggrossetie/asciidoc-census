@@ -51,14 +51,22 @@ A study is a module in `lib/studies/` that declares an `extract(line)` function,
 
 == Sources
  
-The corpus is built from complementary sources:
- 
-BigQuery:: The public `bigquery-public-data.github_repos` dataset provides volume.
-It is an older snapshot, so it is mostly useful for broad statistics.
- 
-Code search:: GitHub code search (via `gh search code`) and similar services provide recent data, within their result limits.
- 
-Targeted clones:: Shallow clones of large documentation projects (Spring, Quarkus, Hibernate, Debezium, OpenShift, Fedora, Antora-based sites, ...) provide depth on how documentation teams write AsciiDoc.
+The corpus currently comes from targeted clones only: the repositories listed in `sources.txt` are shallow-cloned (AsciiDoc files only) at the head of their default branch.
+They are grouped to balance the corpus:
+
+* large documentation projects, mostly Java and Antora-based (Spring, Quarkus, Hibernate, Debezium, Camel, Gradle, ...);
+* Red Hat product documentation (OpenShift, Ansible Automation Platform, Developer Hub, Strimzi, ...);
+* specifications and documentation outside the Java ecosystem (Git, RISC-V, Vulkan, Raspberry Pi, Clojure);
+* books written by individual authors (Pro Git, Node.js par la pratique, Mastering Bitcoin, ...).
+
+Each report lists the analyzed repositories with their commit, so results can be reproduced.
+
+Other sources are planned, to add volume and recency:
+
+BigQuery:: The public `bigquery-public-data.github_repos` dataset would provide volume.
+It is an older snapshot, so it would mostly be useful for broad statistics.
+
+Code search:: GitHub code search (via `gh search code`) and similar services would provide recent data, within their result limits.
  
 == Methodology
  
