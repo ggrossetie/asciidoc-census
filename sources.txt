@@ -153,3 +153,15 @@ https://github.com/camac/BuildXPages  # 51 AsciiDoc files (snapshot: 51) - Tools
 https://github.com/werval/werval  # 50 AsciiDoc files (snapshot: 50) - werval core, gradle & maven plugins, modules and distribution
 https://github.com/arc42/HHGDAC  # 61 AsciiDoc files (snapshot: 50) - Hitchhikers Guide to Docs-as-Code - Code + Infos zur JavaMagazin-Kolumne von R.D. Müller und G.Starke
 https://github.com/arc42/arc42-template  # 213 AsciiDoc files (snapshot: 50) - arc42 - the template for software architecture documentation and communication
+
+# GitLab and other forges (checked by hand, no discovery query yet).
+https://gitlab.eclipse.org/eclipse/asciidoc-lang/asciidoc-lang  # the AsciiDoc Language Specification
+https://gitlab.eclipse.org/eclipse/asciidoc-lang/asciidoc-tck  # the AsciiDoc TCK
+https://gitlab.com/antora/antora
+https://gitlab.com/antora/antora-assembler
+https://gitlab.com/NTPsec/ntpsec
+https://gitlab.com/gpsd/gpsd
+https://gitlab.com/kicad/services/kicad-doc
+https://gitlab.com/cryptsetup/cryptsetup
+https://forge.fedoraproject.org/docs/quick-docs
+https://forge.fedoraproject.org/docs/team-docs
