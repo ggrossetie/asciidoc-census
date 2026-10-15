@@ -1,0 +1,1561 @@
+[{
+  "repo_name": "vikram-redhat/openshift-docs",
+  "files": "5698",
+  "owned_files": "5698"
+}, {
+  "repo_name": "quintel/etsource",
+  "files": "2920",
+  "owned_files": "2919"
+}, {
+  "repo_name": "apache/isis",
+  "files": "2222",
+  "owned_files": "2220"
+}, {
+  "repo_name": "michelehaglund/kie-docs",
+  "files": "1991",
+  "owned_files": "1990"
+}, {
+  "repo_name": "robin13/elasticsearch",
+  "files": "1734",
+  "owned_files": "1734"
+}, {
+  "repo_name": "strapdata/elassandra",
+  "files": "1606",
+  "owned_files": "1441"
+}, {
+  "repo_name": "objectiser/camel",
+  "files": "1366",
+  "owned_files": "1366"
+}, {
+  "repo_name": "apache/camel",
+  "files": "1293",
+  "owned_files": "1283"
+}, {
+  "repo_name": "pmoerenhout/camel",
+  "files": "1319",
+  "owned_files": "1232"
+}, {
+  "repo_name": "live-smart/live-smart.github.io",
+  "files": "1214",
+  "owned_files": "1214"
+}, {
+  "repo_name": "DariusX/camel",
+  "files": "1230",
+  "owned_files": "939"
+}, {
+  "repo_name": "manstis/kie-docs",
+  "files": "1237",
+  "owned_files": "937"
+}, {
+  "repo_name": "alvinkwekel/camel",
+  "files": "1281",
+  "owned_files": "925"
+}, {
+  "repo_name": "ullgren/camel",
+  "files": "1220",
+  "owned_files": "899"
+}, {
+  "repo_name": "uschindler/elasticsearch",
+  "files": "1566",
+  "owned_files": "854"
+}, {
+  "repo_name": "nikhilvibhav/camel",
+  "files": "1289",
+  "owned_files": "851"
+}, {
+  "repo_name": "nknize/elasticsearch",
+  "files": "1673",
+  "owned_files": "818"
+}, {
+  "repo_name": "GlenRSmith/elasticsearch",
+  "files": "1517",
+  "owned_files": "808"
+}, {
+  "repo_name": "nicolaferraro/camel",
+  "files": "1291",
+  "owned_files": "804"
+}, {
+  "repo_name": "onders86/camel",
+  "files": "795",
+  "owned_files": "791"
+}, {
+  "repo_name": "gingerwizard/elasticsearch",
+  "files": "1636",
+  "owned_files": "774"
+}, {
+  "repo_name": "gravitee-io/gravitee-docs",
+  "files": "768",
+  "owned_files": "768"
+}, {
+  "repo_name": "gfyoung/elasticsearch",
+  "files": "1507",
+  "owned_files": "746"
+}, {
+  "repo_name": "estatio/isis",
+  "files": "742",
+  "owned_files": "742"
+}, {
+  "repo_name": "midonet/midonet-docs",
+  "files": "731",
+  "owned_files": "730"
+}, {
+  "repo_name": "mcollovati/camel",
+  "files": "1287",
+  "owned_files": "699"
+}, {
+  "repo_name": "elastic/elasticsearch-net",
+  "files": "673",
+  "owned_files": "673"
+}, {
+  "repo_name": "Fabryprog/camel",
+  "files": "776",
+  "owned_files": "669"
+}, {
+  "repo_name": "tdiesler/camel",
+  "files": "1272",
+  "owned_files": "649"
+}, {
+  "repo_name": "sanderginn/isis",
+  "files": "643",
+  "owned_files": "639"
+}, {
+  "repo_name": "pax95/camel",
+  "files": "1275",
+  "owned_files": "632"
+}, {
+  "repo_name": "coding0011/elasticsearch",
+  "files": "1429",
+  "owned_files": "608"
+}, {
+  "repo_name": "RossLieberman/NEST",
+  "files": "587",
+  "owned_files": "587"
+}, {
+  "repo_name": "Anobium/Great-Cow-BASIC-Help",
+  "files": "586",
+  "owned_files": "586"
+}, {
+  "repo_name": "CodeSmell/camel",
+  "files": "1337",
+  "owned_files": "555"
+}, {
+  "repo_name": "neo4j-contrib/neo4j-apoc-procedures",
+  "files": "532",
+  "owned_files": "531"
+}, {
+  "repo_name": "isavin/camel",
+  "files": "542",
+  "owned_files": "489"
+}, {
+  "repo_name": "TianLangStudio/mastering-apache-spark-book-zh",
+  "files": "476",
+  "owned_files": "476"
+}, {
+  "repo_name": "howepeng/isis",
+  "files": "480",
+  "owned_files": "468"
+}, {
+  "repo_name": "strapdata/elassandra5-rc",
+  "files": "1021",
+  "owned_files": "467"
+}, {
+  "repo_name": "jomarko/kie-docs",
+  "files": "1827",
+  "owned_files": "458"
+}, {
+  "repo_name": "oscarbou/isis",
+  "files": "706",
+  "owned_files": "458"
+}, {
+  "repo_name": "jeffgdotorg/opennms",
+  "files": "450",
+  "owned_files": "450"
+}, {
+  "repo_name": "mubix/blog.room362.com",
+  "files": "440",
+  "owned_files": "440"
+}, {
+  "repo_name": "punkhorn/camel-upstream",
+  "files": "771",
+  "owned_files": "429"
+}, {
+  "repo_name": "HonzaKral/elasticsearch",
+  "files": "1519",
+  "owned_files": "419"
+}, {
+  "repo_name": "pkletsko/camel",
+  "files": "518",
+  "owned_files": "403"
+}, {
+  "repo_name": "maxteufel/weechat",
+  "files": "400",
+  "owned_files": "400"
+}, {
+  "repo_name": "scholzj/barnabas",
+  "files": "385",
+  "owned_files": "385"
+}, {
+  "repo_name": "akhettar/camel",
+  "files": "602",
+  "owned_files": "376"
+}, {
+  "repo_name": "elastic/go-elasticsearch",
+  "files": "370",
+  "owned_files": "369"
+}, {
+  "repo_name": "elastic/elasticsearch-py",
+  "files": "361",
+  "owned_files": "361"
+}, {
+  "repo_name": "shawkins/teiid-documents",
+  "files": "356",
+  "owned_files": "356"
+}, {
+  "repo_name": "rmarting/camel",
+  "files": "560",
+  "owned_files": "352"
+}, {
+  "repo_name": "strapdata/elassandra-test",
+  "files": "614",
+  "owned_files": "346"
+}, {
+  "repo_name": "aihua/opennms",
+  "files": "346",
+  "owned_files": "346"
+}, {
+  "repo_name": "nanomsg/nng",
+  "files": "344",
+  "owned_files": "344"
+}, {
+  "repo_name": "vroyer/elasticassandra",
+  "files": "1063",
+  "owned_files": "338"
+}, {
+  "repo_name": "vdmeer/skb",
+  "files": "337",
+  "owned_files": "337"
+}, {
+  "repo_name": "innovation-jp/innovation-jp.github.io",
+  "files": "324",
+  "owned_files": "322"
+}, {
+  "repo_name": "awislowski/elasticsearch",
+  "files": "638",
+  "owned_files": "322"
+}, {
+  "repo_name": "clojure/clojure-site",
+  "files": "322",
+  "owned_files": "322"
+}, {
+  "repo_name": "endurox-dev/endurox",
+  "files": "313",
+  "owned_files": "313"
+}, {
+  "repo_name": "psiroky/kie-docs",
+  "files": "358",
+  "owned_files": "311"
+}, {
+  "repo_name": "FreeRADIUS/freeradius-server",
+  "files": "308",
+  "owned_files": "308"
+}, {
+  "repo_name": "emmartins/wildfly-server-migration",
+  "files": "308",
+  "owned_files": "308"
+}, {
+  "repo_name": "RohanHart/camel",
+  "files": "409",
+  "owned_files": "305"
+}, {
+  "repo_name": "xiaoping378/openshift-docs",
+  "files": "302",
+  "owned_files": "302"
+}, {
+  "repo_name": "feelpp/book.feelpp.org",
+  "files": "301",
+  "owned_files": "299"
+}, {
+  "repo_name": "kylinsoong/teiid-documents",
+  "files": "306",
+  "owned_files": "298"
+}, {
+  "repo_name": "gilfernandes/camel",
+  "files": "392",
+  "owned_files": "294"
+}, {
+  "repo_name": "w4tson/camel",
+  "files": "394",
+  "owned_files": "289"
+}, {
+  "repo_name": "christiangalsterer/execbeat",
+  "files": "287",
+  "owned_files": "287"
+}, {
+  "repo_name": "jenmalloy/enmasse",
+  "files": "285",
+  "owned_files": "285"
+}, {
+  "repo_name": "evergreen-library-system/Evergreen",
+  "files": "285",
+  "owned_files": "284"
+}, {
+  "repo_name": "jMonkeyEngine/wiki.jmonkeyengine.org",
+  "files": "281",
+  "owned_files": "281"
+}, {
+  "repo_name": "ssharma/camel",
+  "files": "395",
+  "owned_files": "281"
+}, {
+  "repo_name": "jaceklaskowski/kafka-notebook",
+  "files": "278",
+  "owned_files": "278"
+}, {
+  "repo_name": "aparo/elasticsearch",
+  "files": "437",
+  "owned_files": "278"
+}, {
+  "repo_name": "davidkarlsen/camel",
+  "files": "762",
+  "owned_files": "277"
+}, {
+  "repo_name": "quarkusio/quarkus",
+  "files": "273",
+  "owned_files": "272"
+}, {
+  "repo_name": "NSAmelchev/ignite",
+  "files": "272",
+  "owned_files": "272"
+}, {
+  "repo_name": "debezium/debezium.github.io",
+  "files": "271",
+  "owned_files": "271"
+}, {
+  "repo_name": "shockkolate/weechat",
+  "files": "282",
+  "owned_files": "271"
+}, {
+  "repo_name": "feelpp/www.feelpp.org",
+  "files": "285",
+  "owned_files": "268"
+}, {
+  "repo_name": "guns/weechat",
+  "files": "261",
+  "owned_files": "261"
+}, {
+  "repo_name": "anoordover/camel",
+  "files": "660",
+  "owned_files": "257"
+}, {
+  "repo_name": "Darsstar/framework",
+  "files": "256",
+  "owned_files": "256"
+}, {
+  "repo_name": "pferraro/wildfly",
+  "files": "254",
+  "owned_files": "254"
+}, {
+  "repo_name": "apache/solr",
+  "files": "250",
+  "owned_files": "250"
+}, {
+  "repo_name": "HuangLS/neo4j",
+  "files": "247",
+  "owned_files": "247"
+}, {
+  "repo_name": "jamesnetherton/wildfly-camel",
+  "files": "238",
+  "owned_files": "238"
+}, {
+  "repo_name": "hashken/weechat",
+  "files": "275",
+  "owned_files": "233"
+}, {
+  "repo_name": "CSGOpenSource/elasticsearch-net",
+  "files": "236",
+  "owned_files": "233"
+}, {
+  "repo_name": "ppatierno/kaas",
+  "files": "379",
+  "owned_files": "230"
+}, {
+  "repo_name": "asciidoctor/asciidoctor-intellij-plugin",
+  "files": "231",
+  "owned_files": "230"
+}, {
+  "repo_name": "allancth/camel",
+  "files": "430",
+  "owned_files": "229"
+}, {
+  "repo_name": "caiyingyuan/tigase71",
+  "files": "225",
+  "owned_files": "225"
+}, {
+  "repo_name": "aahlenst/spring-boot",
+  "files": "220",
+  "owned_files": "220"
+}, {
+  "repo_name": "mimi1vx/weechat",
+  "files": "299",
+  "owned_files": "218"
+}, {
+  "repo_name": "borcsokj/camel",
+  "files": "326",
+  "owned_files": "218"
+}, {
+  "repo_name": "apache/wicket",
+  "files": "219",
+  "owned_files": "217"
+}, {
+  "repo_name": "adam-mccoy/elasticsearch-net",
+  "files": "231",
+  "owned_files": "217"
+}, {
+  "repo_name": "hqstevenson/camel",
+  "files": "383",
+  "owned_files": "214"
+}, {
+  "repo_name": "JYBESSON/camel",
+  "files": "349",
+  "owned_files": "213"
+}, {
+  "repo_name": "cgvarela/tigase-server",
+  "files": "214",
+  "owned_files": "213"
+}, {
+  "repo_name": "nyuszika7h/weechat",
+  "files": "281",
+  "owned_files": "209"
+}, {
+  "repo_name": "mafulafunk/wicket",
+  "files": "204",
+  "owned_files": "204"
+}, {
+  "repo_name": "yantarou/midonet-docs",
+  "files": "320",
+  "owned_files": "204"
+}, {
+  "repo_name": "CloudI/CloudI",
+  "files": "199",
+  "owned_files": "199"
+}, {
+  "repo_name": "gradle/gradle",
+  "files": "196",
+  "owned_files": "196"
+}, {
+  "repo_name": "scorpionvicky/elasticsearch",
+  "files": "1633",
+  "owned_files": "190"
+}, {
+  "repo_name": "EBISPOT/OLS",
+  "files": "190",
+  "owned_files": "190"
+}, {
+  "repo_name": "candythinking/mastering-apache-spark-book",
+  "files": "463",
+  "owned_files": "186"
+}, {
+  "repo_name": "tadamski/wildfly",
+  "files": "231",
+  "owned_files": "183"
+}, {
+  "repo_name": "nemerosa/ontrack",
+  "files": "181",
+  "owned_files": "181"
+}, {
+  "repo_name": "jaikiran/ant-ivy",
+  "files": "176",
+  "owned_files": "176"
+}, {
+  "repo_name": "apache/ant-ivy",
+  "files": "176",
+  "owned_files": "176"
+}, {
+  "repo_name": "sborenst/ansible_agnostic_deployer",
+  "files": "177",
+  "owned_files": "176"
+}, {
+  "repo_name": "spring-projects/spring-security",
+  "files": "172",
+  "owned_files": "172"
+}, {
+  "repo_name": "Evalle/weechat",
+  "files": "282",
+  "owned_files": "172"
+}, {
+  "repo_name": "dobbymoodge/origin",
+  "files": "171",
+  "owned_files": "170"
+}, {
+  "repo_name": "hawkular/hawkular.github.io",
+  "files": "167",
+  "owned_files": "167"
+}, {
+  "repo_name": "fvasquezjatar/fermat-unused",
+  "files": "166",
+  "owned_files": "166"
+}, {
+  "repo_name": "dpursehouse/elasticsearch",
+  "files": "637",
+  "owned_files": "166"
+}, {
+  "repo_name": "esig/dss",
+  "files": "165",
+  "owned_files": "165"
+}, {
+  "repo_name": "ngageoint/hootenanny",
+  "files": "164",
+  "owned_files": "163"
+}, {
+  "repo_name": "niv0/isis",
+  "files": "640",
+  "owned_files": "162"
+}, {
+  "repo_name": "Brijeshrpatel9/elasticsearch",
+  "files": "572",
+  "owned_files": "156"
+}, {
+  "repo_name": "weechat/weechat",
+  "files": "155",
+  "owned_files": "155"
+}, {
+  "repo_name": "inverse-inc/packetfence",
+  "files": "155",
+  "owned_files": "155"
+}, {
+  "repo_name": "griffon/griffon",
+  "files": "153",
+  "owned_files": "153"
+}, {
+  "repo_name": "jbosschina/openshift-cookbooks",
+  "files": "151",
+  "owned_files": "151"
+}, {
+  "repo_name": "vrkansagara/elasticsearch",
+  "files": "434",
+  "owned_files": "151"
+}, {
+  "repo_name": "nomoa/elasticsearch",
+  "files": "616",
+  "owned_files": "150"
+}, {
+  "repo_name": "jdahlstrom/vaadin.react",
+  "files": "191",
+  "owned_files": "150"
+}, {
+  "repo_name": "wildfly/wildfly-capabilities",
+  "files": "148",
+  "owned_files": "148"
+}, {
+  "repo_name": "abelsromero/asciidoctorj",
+  "files": "149",
+  "owned_files": "148"
+}, {
+  "repo_name": "LinuxCNC/linuxcnc",
+  "files": "146",
+  "owned_files": "146"
+}, {
+  "repo_name": "Swagger2Markup/swagger2markup",
+  "files": "147",
+  "owned_files": "145"
+}, {
+  "repo_name": "BitcoinDictionary/bitcoindictionary",
+  "files": "145",
+  "owned_files": "145"
+}, {
+  "repo_name": "TheVasin/good-songs-to-play",
+  "files": "144",
+  "owned_files": "144"
+}, {
+  "repo_name": "chmyga/component-runtime",
+  "files": "144",
+  "owned_files": "144"
+}, {
+  "repo_name": "ashetty1/kedge",
+  "files": "146",
+  "owned_files": "142"
+}, {
+  "repo_name": "apache/incubator-trafodion",
+  "files": "142",
+  "owned_files": "142"
+}, {
+  "repo_name": "yurchor/util-linux",
+  "files": "140",
+  "owned_files": "140"
+}, {
+  "repo_name": "totovaauski/core",
+  "files": "140",
+  "owned_files": "140"
+}, {
+  "repo_name": "masaruh/elasticsearch",
+  "files": "1021",
+  "owned_files": "139"
+}, {
+  "repo_name": "Normation/rudder-tools",
+  "files": "139",
+  "owned_files": "139"
+}, {
+  "repo_name": "andrewvc/elasticsearch",
+  "files": "325",
+  "owned_files": "138"
+}, {
+  "repo_name": "mmaracic/elasticsearch",
+  "files": "603",
+  "owned_files": "137"
+}, {
+  "repo_name": "slitvinov/uDeviceX",
+  "files": "136",
+  "owned_files": "136"
+}, {
+  "repo_name": "irinabov/debian-qpid-dispatch",
+  "files": "136",
+  "owned_files": "136"
+}, {
+  "repo_name": "speedata/publisher",
+  "files": "134",
+  "owned_files": "134"
+}, {
+  "repo_name": "OnePaaS/elasticsearch",
+  "files": "399",
+  "owned_files": "133"
+}, {
+  "repo_name": "Buzzardo/spring-boot",
+  "files": "210",
+  "owned_files": "132"
+}, {
+  "repo_name": "davehorton/drachtio-server",
+  "files": "132",
+  "owned_files": "132"
+}, {
+  "repo_name": "asciidoctor/asciidoctor-pdf",
+  "files": "133",
+  "owned_files": "132"
+}, {
+  "repo_name": "fhanik/spring-security",
+  "files": "133",
+  "owned_files": "131"
+}, {
+  "repo_name": "rajanm/elasticsearch",
+  "files": "1055",
+  "owned_files": "131"
+}, {
+  "repo_name": "danmcp/origin",
+  "files": "167",
+  "owned_files": "129"
+}, {
+  "repo_name": "tinkercnc/linuxcnc-mirror-old",
+  "files": "145",
+  "owned_files": "128"
+}, {
+  "repo_name": "ethaneldridge/vassal",
+  "files": "126",
+  "owned_files": "126"
+}, {
+  "repo_name": "sim642/weechat",
+  "files": "139",
+  "owned_files": "124"
+}, {
+  "repo_name": "dbmalkovsky/flowable-engine",
+  "files": "121",
+  "owned_files": "121"
+}, {
+  "repo_name": "adessaigne/camel",
+  "files": "1258",
+  "owned_files": "121"
+}, {
+  "repo_name": "vertigo17/Cerberus",
+  "files": "120",
+  "owned_files": "120"
+}, {
+  "repo_name": "blahcadepodcast/blahcadepodcast.github.io",
+  "files": "128",
+  "owned_files": "119"
+}, {
+  "repo_name": "lbeurerkellner/n4js",
+  "files": "118",
+  "owned_files": "118"
+}, {
+  "repo_name": "alexshadow007/elasticsearch",
+  "files": "979",
+  "owned_files": "118"
+}, {
+  "repo_name": "robinverduijn/gradle",
+  "files": "122",
+  "owned_files": "117"
+}, {
+  "repo_name": "karelzak/util-linux",
+  "files": "136",
+  "owned_files": "117"
+}, {
+  "repo_name": "killbill/killbill-docs",
+  "files": "117",
+  "owned_files": "116"
+}, {
+  "repo_name": "groupe-sii/ogham",
+  "files": "117",
+  "owned_files": "116"
+}, {
+  "repo_name": "droolsjbpm/optaplanner-website",
+  "files": "115",
+  "owned_files": "115"
+}, {
+  "repo_name": "levymoreira/griffon",
+  "files": "122",
+  "owned_files": "114"
+}, {
+  "repo_name": "brandonkearby/elasticsearch",
+  "files": "1014",
+  "owned_files": "114"
+}, {
+  "repo_name": "jmini/asciidoctorj-experiments",
+  "files": "115",
+  "owned_files": "114"
+}, {
+  "repo_name": "PI-Victor/origin",
+  "files": "170",
+  "owned_files": "113"
+}, {
+  "repo_name": "Netflix/genie",
+  "files": "113",
+  "owned_files": "113"
+}, {
+  "repo_name": "yapdns/yapdns-client",
+  "files": "133",
+  "owned_files": "113"
+}, {
+  "repo_name": "rcernich/application-templates",
+  "files": "112",
+  "owned_files": "112"
+}, {
+  "repo_name": "spohnan/geowave",
+  "files": "111",
+  "owned_files": "111"
+}, {
+  "repo_name": "shashi95/kafkaES",
+  "files": "580",
+  "owned_files": "111"
+}, {
+  "repo_name": "fubuki/elasticsearch",
+  "files": "432",
+  "owned_files": "110"
+}, {
+  "repo_name": "docToolchain/docToolchain",
+  "files": "109",
+  "owned_files": "109"
+}, {
+  "repo_name": "araisrobo/machinekit",
+  "files": "108",
+  "owned_files": "108"
+}, {
+  "repo_name": "camilojd/elasticsearch",
+  "files": "624",
+  "owned_files": "108"
+}, {
+  "repo_name": "arnaud-deprez/camel",
+  "files": "172",
+  "owned_files": "107"
+}, {
+  "repo_name": "apache/cassandra",
+  "files": "106",
+  "owned_files": "106"
+}, {
+  "repo_name": "TheFireCookie/elasticsearch-net",
+  "files": "212",
+  "owned_files": "106"
+}, {
+  "repo_name": "gotroy/elasticsearch",
+  "files": "378",
+  "owned_files": "106"
+}, {
+  "repo_name": "dksaputra/community",
+  "files": "111",
+  "owned_files": "105"
+}, {
+  "repo_name": "jprante/elasticsearch",
+  "files": "976",
+  "owned_files": "104"
+}, {
+  "repo_name": "phenomenes/varnishbeat",
+  "files": "155",
+  "owned_files": "104"
+}, {
+  "repo_name": "webanno/webanno",
+  "files": "104",
+  "owned_files": "103"
+}, {
+  "repo_name": "akhikhl/gretty-doc",
+  "files": "102",
+  "owned_files": "102"
+}, {
+  "repo_name": "henakamaMSFT/elasticsearch",
+  "files": "623",
+  "owned_files": "102"
+}, {
+  "repo_name": "kevinearls/camel",
+  "files": "762",
+  "owned_files": "102"
+}, {
+  "repo_name": "locationtech/geowave",
+  "files": "101",
+  "owned_files": "101"
+}, {
+  "repo_name": "advancedtelematic/sota_client_cpp",
+  "files": "104",
+  "owned_files": "101"
+}, {
+  "repo_name": "wildfly-swarm/wildfly-swarm-core",
+  "files": "101",
+  "owned_files": "101"
+}, {
+  "repo_name": "openlimit-signcubes/dss",
+  "files": "115",
+  "owned_files": "100"
+}, {
+  "repo_name": "gvSIGAssociation/gvnix",
+  "files": "99",
+  "owned_files": "99"
+}, {
+  "repo_name": "bitkeeper-scm/bitkeeper",
+  "files": "99",
+  "owned_files": "99"
+}, {
+  "repo_name": "irontable/genie",
+  "files": "103",
+  "owned_files": "99"
+}, {
+  "repo_name": "christophd/citrus",
+  "files": "99",
+  "owned_files": "99"
+}, {
+  "repo_name": "tlehoux/camel",
+  "files": "506",
+  "owned_files": "98"
+}, {
+  "repo_name": "scriptindex/scriptindex.github.io",
+  "files": "109",
+  "owned_files": "98"
+}, {
+  "repo_name": "quintel/etengine",
+  "files": "107",
+  "owned_files": "98"
+}, {
+  "repo_name": "revapi/revapi",
+  "files": "98",
+  "owned_files": "98"
+}, {
+  "repo_name": "ESamir/elasticsearch",
+  "files": "589",
+  "owned_files": "98"
+}, {
+  "repo_name": "gucce/citrus",
+  "files": "98",
+  "owned_files": "97"
+}, {
+  "repo_name": "stanxii/ngb",
+  "files": "97",
+  "owned_files": "97"
+}, {
+  "repo_name": "ShapeChange/ShapeChange",
+  "files": "93",
+  "owned_files": "93"
+}, {
+  "repo_name": "alexis-hassler/blog",
+  "files": "93",
+  "owned_files": "93"
+}, {
+  "repo_name": "Blazebit/blaze-persistence",
+  "files": "92",
+  "owned_files": "92"
+}, {
+  "repo_name": "klopfdreh/wicket",
+  "files": "215",
+  "owned_files": "92"
+}, {
+  "repo_name": "eset/malware-ioc",
+  "files": "92",
+  "owned_files": "92"
+}, {
+  "repo_name": "Asimov4/elasticsearch",
+  "files": "430",
+  "owned_files": "91"
+}, {
+  "repo_name": "istresearch/PulseTheme",
+  "files": "91",
+  "owned_files": "90"
+}, {
+  "repo_name": "oliviercailloux/java-course",
+  "files": "90",
+  "owned_files": "90"
+}, {
+  "repo_name": "bdecoste/application-templates",
+  "files": "100",
+  "owned_files": "89"
+}, {
+  "repo_name": "maddin2016/elasticsearch",
+  "files": "1016",
+  "owned_files": "89"
+}, {
+  "repo_name": "recurrence/weechat",
+  "files": "282",
+  "owned_files": "88"
+}, {
+  "repo_name": "berfinsari/metricbeat",
+  "files": "206",
+  "owned_files": "87"
+}, {
+  "repo_name": "MSO4SC/book.mso4sc.eu",
+  "files": "90",
+  "owned_files": "87"
+}, {
+  "repo_name": "lsmaira/gradle",
+  "files": "105",
+  "owned_files": "87"
+}, {
+  "repo_name": "clojure/clojurescript-site",
+  "files": "89",
+  "owned_files": "87"
+}, {
+  "repo_name": "couchbase/couchbase-cli",
+  "files": "87",
+  "owned_files": "87"
+}, {
+  "repo_name": "avikurapati/elasticsearch",
+  "files": "631",
+  "owned_files": "87"
+}, {
+  "repo_name": "jlec/weechat",
+  "files": "273",
+  "owned_files": "87"
+}, {
+  "repo_name": "decidim/decidim",
+  "files": "86",
+  "owned_files": "86"
+}, {
+  "repo_name": "EnMasseProject/enmasse",
+  "files": "257",
+  "owned_files": "86"
+}, {
+  "repo_name": "zregvart/camel",
+  "files": "1203",
+  "owned_files": "85"
+}, {
+  "repo_name": "apache/groovy",
+  "files": "85",
+  "owned_files": "85"
+}, {
+  "repo_name": "xinec/elasticsearch-innerhits-1.4.0",
+  "files": "401",
+  "owned_files": "84"
+}, {
+  "repo_name": "Mkaysi/weechat",
+  "files": "280",
+  "owned_files": "84"
+}, {
+  "repo_name": "aim42/aim42",
+  "files": "84",
+  "owned_files": "84"
+}, {
+  "repo_name": "grails/gorm-hibernate5",
+  "files": "85",
+  "owned_files": "84"
+}, {
+  "repo_name": "diguage/jdk-source-analysis",
+  "files": "83",
+  "owned_files": "83"
+}, {
+  "repo_name": "Flank/flank",
+  "files": "83",
+  "owned_files": "83"
+}, {
+  "repo_name": "carloslozano/docToolchain",
+  "files": "83",
+  "owned_files": "83"
+}, {
+  "repo_name": "peschlowp/elasticsearch",
+  "files": "397",
+  "owned_files": "83"
+}, {
+  "repo_name": "forge/docs",
+  "files": "84",
+  "owned_files": "83"
+}, {
+  "repo_name": "Edwin-Ran/es_source_read",
+  "files": "427",
+  "owned_files": "82"
+}, {
+  "repo_name": "apache/tinkerpop",
+  "files": "82",
+  "owned_files": "82"
+}, {
+  "repo_name": "gstevey/gradle",
+  "files": "83",
+  "owned_files": "82"
+}, {
+  "repo_name": "b1v1r/ironbee",
+  "files": "82",
+  "owned_files": "82"
+}, {
+  "repo_name": "leviathan747/bridgepoint",
+  "files": "82",
+  "owned_files": "81"
+}, {
+  "repo_name": "wireshark/wireshark",
+  "files": "81",
+  "owned_files": "81"
+}, {
+  "repo_name": "marcuswr/elasticsearch-dateline",
+  "files": "379",
+  "owned_files": "80"
+}, {
+  "repo_name": "barspi/jPOS",
+  "files": "79",
+  "owned_files": "79"
+}, {
+  "repo_name": "tdiesler/wildfly-camel",
+  "files": "232",
+  "owned_files": "78"
+}, {
+  "repo_name": "eddiejaoude/book-open-source-tips",
+  "files": "78",
+  "owned_files": "78"
+}, {
+  "repo_name": "PDXostc/rvi_sota_server",
+  "files": "78",
+  "owned_files": "78"
+}, {
+  "repo_name": "kwizer15/core",
+  "files": "81",
+  "owned_files": "78"
+}, {
+  "repo_name": "ConSol/sakuli",
+  "files": "78",
+  "owned_files": "78"
+}, {
+  "repo_name": "debezium/debezium",
+  "files": "77",
+  "owned_files": "77"
+}, {
+  "repo_name": "danlorts/hootenanny",
+  "files": "77",
+  "owned_files": "77"
+}, {
+  "repo_name": "dmvolod/camel",
+  "files": "619",
+  "owned_files": "76"
+}, {
+  "repo_name": "nscendoni/syncope",
+  "files": "76",
+  "owned_files": "76"
+}, {
+  "repo_name": "DBCG/Dataphor",
+  "files": "76",
+  "owned_files": "76"
+}, {
+  "repo_name": "eddumelendez/spring-security",
+  "files": "90",
+  "owned_files": "76"
+}, {
+  "repo_name": "lmenezes/elasticsearch",
+  "files": "317",
+  "owned_files": "75"
+}, {
+  "repo_name": "kdvolder/spring-boot",
+  "files": "77",
+  "owned_files": "75"
+}, {
+  "repo_name": "jerodg/hackerrank-python",
+  "files": "74",
+  "owned_files": "74"
+}, {
+  "repo_name": "advancedtelematic/aktualizr",
+  "files": "96",
+  "owned_files": "74"
+}, {
+  "repo_name": "javathought/javathought.github.io",
+  "files": "83",
+  "owned_files": "74"
+}, {
+  "repo_name": "naveenhooda2000/elasticsearch",
+  "files": "1005",
+  "owned_files": "73"
+}, {
+  "repo_name": "GoogleCloudPlatform/spring-cloud-gcp",
+  "files": "74",
+  "owned_files": "73"
+}, {
+  "repo_name": "spring-cloud/spring-cloud-pipelines",
+  "files": "73",
+  "owned_files": "73"
+}, {
+  "repo_name": "gnodet/camel",
+  "files": "1317",
+  "owned_files": "72"
+}, {
+  "repo_name": "Flipkart/elasticsearch",
+  "files": "421",
+  "owned_files": "72"
+}, {
+  "repo_name": "rakuco/weechat",
+  "files": "274",
+  "owned_files": "72"
+}, {
+  "repo_name": "Kamapcuc/elasticsearch",
+  "files": "610",
+  "owned_files": "72"
+}, {
+  "repo_name": "lipari/flux-core",
+  "files": "71",
+  "owned_files": "71"
+}, {
+  "repo_name": "blindpirate/gradle",
+  "files": "192",
+  "owned_files": "71"
+}, {
+  "repo_name": "neo4j-examples/graphgists",
+  "files": "71",
+  "owned_files": "71"
+}, {
+  "repo_name": "knrc/application-templates",
+  "files": "89",
+  "owned_files": "71"
+}, {
+  "repo_name": "larusba/neo4j-apoc-procedures",
+  "files": "72",
+  "owned_files": "70"
+}, {
+  "repo_name": "yanjunh/elasticsearch",
+  "files": "622",
+  "owned_files": "70"
+}, {
+  "repo_name": "exercitussolus/yolo",
+  "files": "316",
+  "owned_files": "70"
+}, {
+  "repo_name": "asciidoctor/asciidoctor-epub3",
+  "files": "71",
+  "owned_files": "70"
+}, {
+  "repo_name": "abelsromero/asciidoctor-maven-plugin",
+  "files": "69",
+  "owned_files": "69"
+}, {
+  "repo_name": "Mogztter/asciidoctor.js",
+  "files": "71",
+  "owned_files": "69"
+}, {
+  "repo_name": "PascalSchumacher/incubator-groovy",
+  "files": "69",
+  "owned_files": "69"
+}, {
+  "repo_name": "shils/groovy",
+  "files": "77",
+  "owned_files": "69"
+}, {
+  "repo_name": "talisein/weechat-1",
+  "files": "139",
+  "owned_files": "69"
+}, {
+  "repo_name": "scottellis64/scottellis64.github.io",
+  "files": "71",
+  "owned_files": "69"
+}, {
+  "repo_name": "pietermartin/sqlg",
+  "files": "70",
+  "owned_files": "69"
+}, {
+  "repo_name": "jooby-project/jooby",
+  "files": "68",
+  "owned_files": "68"
+}, {
+  "repo_name": "skoba/mml",
+  "files": "68",
+  "owned_files": "68"
+}, {
+  "repo_name": "douglaspalmer/application-templates",
+  "files": "82",
+  "owned_files": "68"
+}, {
+  "repo_name": "roskens/opennms-pre-github",
+  "files": "68",
+  "owned_files": "68"
+}, {
+  "repo_name": "philwebb/spring-boot",
+  "files": "73",
+  "owned_files": "67"
+}, {
+  "repo_name": "asciidoctor/rubygem-asciidoctor-deb",
+  "files": "68",
+  "owned_files": "67"
+}, {
+  "repo_name": "jarst/camel",
+  "files": "356",
+  "owned_files": "66"
+}, {
+  "repo_name": "mouseguests/mouseguests.github.io",
+  "files": "71",
+  "owned_files": "66"
+}, {
+  "repo_name": "spring-projects/spring-framework",
+  "files": "67",
+  "owned_files": "66"
+}, {
+  "repo_name": "MuAries57/MuAries57.github.io-hugo",
+  "files": "65",
+  "owned_files": "65"
+}, {
+  "repo_name": "spring-cloud/spring-cloud-stream-app-starters",
+  "files": "65",
+  "owned_files": "65"
+}, {
+  "repo_name": "alisdev/dss",
+  "files": "83",
+  "owned_files": "65"
+}, {
+  "repo_name": "oliviercailloux/jee",
+  "files": "84",
+  "owned_files": "64"
+}, {
+  "repo_name": "Apache9/hbase",
+  "files": "64",
+  "owned_files": "64"
+}, {
+  "repo_name": "ascherbakoff/ignite",
+  "files": "267",
+  "owned_files": "64"
+}, {
+  "repo_name": "chrylis/spring-boot",
+  "files": "213",
+  "owned_files": "63"
+}, {
+  "repo_name": "grails-plugins/grails-spring-security-core",
+  "files": "63",
+  "owned_files": "63"
+}, {
+  "repo_name": "dizitart/nitrite-database",
+  "files": "63",
+  "owned_files": "62"
+}, {
+  "repo_name": "ThiagoGarciaAlves/elasticsearch",
+  "files": "1030",
+  "owned_files": "62"
+}, {
+  "repo_name": "spring-cloud/spring-cloud-gcp",
+  "files": "68",
+  "owned_files": "62"
+}, {
+  "repo_name": "takezoe/elasticsearch-hadoop",
+  "files": "62",
+  "owned_files": "62"
+}, {
+  "repo_name": "cunningt/camel",
+  "files": "1276",
+  "owned_files": "62"
+}, {
+  "repo_name": "aalmiray/ikonli",
+  "files": "62",
+  "owned_files": "62"
+}, {
+  "repo_name": "abutcher/origin",
+  "files": "69",
+  "owned_files": "62"
+}, {
+  "repo_name": "jvalkeal/spring-cloud-dataflow",
+  "files": "63",
+  "owned_files": "62"
+}, {
+  "repo_name": "camilo28/camilo28.github.io",
+  "files": "71",
+  "owned_files": "62"
+}, {
+  "repo_name": "daradurvs/ignite",
+  "files": "260",
+  "owned_files": "61"
+}, {
+  "repo_name": "djechelon/spring-security",
+  "files": "126",
+  "owned_files": "61"
+}, {
+  "repo_name": "jrouzierinverse/freeradius-server",
+  "files": "300",
+  "owned_files": "61"
+}, {
+  "repo_name": "tschulte/griffon",
+  "files": "100",
+  "owned_files": "61"
+}, {
+  "repo_name": "cybermaggedon/wye",
+  "files": "61",
+  "owned_files": "61"
+}, {
+  "repo_name": "aalmiray/griffon2",
+  "files": "65",
+  "owned_files": "60"
+}, {
+  "repo_name": "droolsjbpm/optaplanner",
+  "files": "60",
+  "owned_files": "60"
+}, {
+  "repo_name": "jonmcewen/camel",
+  "files": "589",
+  "owned_files": "60"
+}, {
+  "repo_name": "oskopek/optaplanner-website",
+  "files": "60",
+  "owned_files": "60"
+}, {
+  "repo_name": "moley/leguan",
+  "files": "60",
+  "owned_files": "60"
+}, {
+  "repo_name": "oasp-forge/bht-2017-RideSharing-Server",
+  "files": "59",
+  "owned_files": "59"
+}, {
+  "repo_name": "aglne/elasticsearch",
+  "files": "505",
+  "owned_files": "59"
+}, {
+  "repo_name": "canoo/open-dolphin",
+  "files": "59",
+  "owned_files": "59"
+}, {
+  "repo_name": "gvSIGAssociation/gvsig-roads-website",
+  "files": "59",
+  "owned_files": "59"
+}, {
+  "repo_name": "apache/syncope",
+  "files": "60",
+  "owned_files": "59"
+}, {
+  "repo_name": "ozoneplatform/omp-marketplace",
+  "files": "59",
+  "owned_files": "59"
+}, {
+  "repo_name": "Becca42/geowave",
+  "files": "59",
+  "owned_files": "59"
+}, {
+  "repo_name": "Thopap/camel",
+  "files": "535",
+  "owned_files": "59"
+}, {
+  "repo_name": "OpenHFT/Chronicle-Queue",
+  "files": "60",
+  "owned_files": "59"
+}, {
+  "repo_name": "1fechner/FeatureExtractor",
+  "files": "58",
+  "owned_files": "58"
+}, {
+  "repo_name": "korczis/gooddata-ruby-examples",
+  "files": "58",
+  "owned_files": "58"
+}, {
+  "repo_name": "ninenines/gun",
+  "files": "57",
+  "owned_files": "57"
+}, {
+  "repo_name": "jpechane/debezium",
+  "files": "66",
+  "owned_files": "57"
+}, {
+  "repo_name": "gmarz/elasticsearch",
+  "files": "617",
+  "owned_files": "57"
+}, {
+  "repo_name": "vojtechkral/cargo",
+  "files": "57",
+  "owned_files": "57"
+}, {
+  "repo_name": "cometd/cometd",
+  "files": "57",
+  "owned_files": "57"
+}, {
+  "repo_name": "aldaris/wicket",
+  "files": "216",
+  "owned_files": "57"
+}, {
+  "repo_name": "robertamarton/incubator-trafodion",
+  "files": "135",
+  "owned_files": "56"
+}, {
+  "repo_name": "neo4j-contrib/neo4j-graph-algorithms",
+  "files": "56",
+  "owned_files": "56"
+}, {
+  "repo_name": "iweiss/wildfly",
+  "files": "251",
+  "owned_files": "56"
+}, {
+  "repo_name": "tdefilip/opennms",
+  "files": "65",
+  "owned_files": "56"
+}, {
+  "repo_name": "fmarchioni/mastertheboss",
+  "files": "56",
+  "owned_files": "56"
+}, {
+  "repo_name": "securny/syncope",
+  "files": "57",
+  "owned_files": "55"
+}, {
+  "repo_name": "DozerMapper/dozer",
+  "files": "55",
+  "owned_files": "55"
+}, {
+  "repo_name": "Legioth/vaadin",
+  "files": "166",
+  "owned_files": "55"
+}, {
+  "repo_name": "dongjoon-hyun/elasticsearch",
+  "files": "616",
+  "owned_files": "55"
+}, {
+  "repo_name": "sgalles/sgalles.github.io",
+  "files": "64",
+  "owned_files": "55"
+}, {
+  "repo_name": "eddumelendez/spring-boot",
+  "files": "65",
+  "owned_files": "55"
+}, {
+  "repo_name": "mohsinh/elasticsearch",
+  "files": "371",
+  "owned_files": "55"
+}, {
+  "repo_name": "AbleOne/link-rest",
+  "files": "55",
+  "owned_files": "55"
+}, {
+  "repo_name": "errantepiphany/application-templates",
+  "files": "63",
+  "owned_files": "55"
+}, {
+  "repo_name": "esfand/rsyslogdocs",
+  "files": "55",
+  "owned_files": "55"
+}, {
+  "repo_name": "baldimir/optaplanner",
+  "files": "59",
+  "owned_files": "54"
+}, {
+  "repo_name": "Tendrl/specifications",
+  "files": "54",
+  "owned_files": "54"
+}, {
+  "repo_name": "lburgazzoli/apache-camel",
+  "files": "437",
+  "owned_files": "54"
+}, {
+  "repo_name": "LeoYao/elasticsearch",
+  "files": "999",
+  "owned_files": "53"
+}, {
+  "repo_name": "flesire/ontrack",
+  "files": "142",
+  "owned_files": "53"
+}, {
+  "repo_name": "hanst/elasticsearch-reference-cn",
+  "files": "422",
+  "owned_files": "53"
+}, {
+  "repo_name": "RazrFalcon/SVGCleaner",
+  "files": "53",
+  "owned_files": "53"
+}, {
+  "repo_name": "fabric8io/docker-maven-plugin",
+  "files": "53",
+  "owned_files": "53"
+}, {
+  "repo_name": "rwinch/spring-security",
+  "files": "162",
+  "owned_files": "52"
+}, {
+  "repo_name": "asciidoctor/asciidoctor-gradle-plugin",
+  "files": "53",
+  "owned_files": "52"
+}, {
+  "repo_name": "moritzmenzel/raumreservierung",
+  "files": "52",
+  "owned_files": "52"
+}, {
+  "repo_name": "rabbitmq/cowboy",
+  "files": "109",
+  "owned_files": "52"
+}, {
+  "repo_name": "bparees/application-templates",
+  "files": "94",
+  "owned_files": "52"
+}, {
+  "repo_name": "cortlandstarrett/mc",
+  "files": "57",
+  "owned_files": "52"
+}, {
+  "repo_name": "BrynCooke/incubator-tinkerpop",
+  "files": "52",
+  "owned_files": "52"
+}, {
+  "repo_name": "gsheldon/optaplanner",
+  "files": "53",
+  "owned_files": "51"
+}, {
+  "repo_name": "asciidoctor/asciidoctor-latex",
+  "files": "51",
+  "owned_files": "51"
+}, {
+  "repo_name": "TonyChai24/ESSource",
+  "files": "567",
+  "owned_files": "51"
+}, {
+  "repo_name": "camac/BuildXPages",
+  "files": "51",
+  "owned_files": "51"
+}, {
+  "repo_name": "JClingo/gitbook",
+  "files": "75",
+  "owned_files": "51"
+}, {
+  "repo_name": "tcrossland/grails-spring-security-core",
+  "files": "58",
+  "owned_files": "51"
+}, {
+  "repo_name": "C-Bish/elasticsearch",
+  "files": "975",
+  "owned_files": "51"
+}, {
+  "repo_name": "buschmais/jqassistant-examples",
+  "files": "51",
+  "owned_files": "51"
+}, {
+  "repo_name": "jbertouch/elasticsearch",
+  "files": "587",
+  "owned_files": "50"
+}, {
+  "repo_name": "werval/werval",
+  "files": "50",
+  "owned_files": "50"
+}, {
+  "repo_name": "arc42/HHGDAC",
+  "files": "59",
+  "owned_files": "50"
+}, {
+  "repo_name": "artem-aliev/tinkerpop",
+  "files": "66",
+  "owned_files": "50"
+}, {
+  "repo_name": "jaa127/tackler",
+  "files": "50",
+  "owned_files": "50"
+}, {
+  "repo_name": "girirajsharma/elasticsearch",
+  "files": "637",
+  "owned_files": "50"
+}, {
+  "repo_name": "anrichter/arc42-template",
+  "files": "62",
+  "owned_files": "50"
+}, {
+  "repo_name": "kitenco/aim42",
+  "files": "66",
+  "owned_files": "50"
+}]

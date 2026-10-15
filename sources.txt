@@ -1,4 +1,4 @@
-# Repositories cloned by `adoc-census fetch` (one URL per line).
+# Repositories cloned by `adoc-census fetch` (one URL per line; a line starting with ! excludes a repository).
 # Large documentation projects, to measure how documentation teams write AsciiDoc.
 https://github.com/asciidoctor/asciidoctor
 https://github.com/asciidoctor/asciidoctor-pdf
@@ -44,3 +44,112 @@ https://github.com/joshlong/spring-authorization-server-book
 https://github.com/progit/progit2
 https://github.com/bitcoinbook/bitcoinbook
 https://github.com/lnbook/lnbook
+
+# Discovered with queries/asciidoc-repositories.sql and `adoc-census discover --min 50`.
+https://github.com/apache/causeway  # 2117 AsciiDoc files (snapshot: 2220) - Use Apache Causeway™ to rapidly develop domain-driven apps or modular monoliths in Java, on top of the Spring Boot platform. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp, GraphQL or RESTful API. For prototyping or production.
+https://github.com/apache/incubator-kie-docs  # 333 AsciiDoc files (snapshot: 1990) - Apache KIE documentation repository for Kogito
+https://github.com/gravitee-io/gravitee-docs  # 805 AsciiDoc files (snapshot: 768) - Gravitee - Documentation
+https://github.com/midonet/midonet-docs  # 788 AsciiDoc files (snapshot: 730)
+https://github.com/Anobium/Great-Cow-BASIC-Help  # 819 AsciiDoc files (snapshot: 586) - Source for the Great Cow BASIC Help
+https://github.com/neo4j-contrib/neo4j-apoc-procedures  # 791 AsciiDoc files (snapshot: 531) - Awesome Procedures On Cypher for Neo4j - codenamed "apoc" If you like it, please ★ above ⇧ 
+https://github.com/TianLangStudio/mastering-apache-spark-book-zh  # 476 AsciiDoc files (snapshot: 476)
+https://github.com/OpenNMS/opennms  # 641 AsciiDoc files (snapshot: 450) - Enterprise-Grade Open-Source Network Management Platform
+https://github.com/weechat/weechat  # 112 AsciiDoc files (snapshot: 400) - The extensible chat client.
+https://github.com/elastic/go-elasticsearch  # 350 AsciiDoc files (snapshot: 369) - The official Go client for Elasticsearch
+https://github.com/elastic/elasticsearch-py  # 3353 AsciiDoc files (snapshot: 361) - Official Python client for Elasticsearch
+https://github.com/teiid/teiid-documents  # 358 AsciiDoc files (snapshot: 356) - Community documents for Teiid Engine and Teiid Server
+https://github.com/vdmeer/skb  # 342 AsciiDoc files (snapshot: 337) - My Knowledge Base, starting point for several projects:
+https://github.com/endurox-dev/endurox  # 317 AsciiDoc files (snapshot: 313) - Enduro/X Middleware Platform for Distributed Transaction Processing 
+https://github.com/FreeRADIUS/freeradius-server  # 660 AsciiDoc files (snapshot: 308) - FreeRADIUS - A multi-protocol policy server.
+https://github.com/emmartins/wildfly-server-migration  # 264 AsciiDoc files (snapshot: 308) - A tool to migrate a WildFly server
+https://github.com/feelpp/book.feelpp.org  # 373 AsciiDoc files (snapshot: 299) - :globe_with_meridians: The Feel++ Book
+https://github.com/evergreen-library-system/Evergreen  # 363 AsciiDoc files (snapshot: 284) - Evergreen ILS
+https://github.com/jMonkeyEngine/wiki  # 291 AsciiDoc files (snapshot: 281) - The official wiki for jMonkeyEngine.
+https://github.com/jaceklaskowski/kafka-notebook  # 271 AsciiDoc files (snapshot: 278) - The Internals of Apache Kafka
+https://github.com/apache/ignite  # 280 AsciiDoc files (snapshot: 272) - Apache Ignite
+https://github.com/debezium/debezium.github.io  # 472 AsciiDoc files (snapshot: 271) - Source for the Debezium website. Please log issues at https://github.com/debezium/dbz/issues.
+https://github.com/apache/solr  # 321 AsciiDoc files (snapshot: 250) - Apache Solr open-source search software
+https://github.com/apache/wicket  # 224 AsciiDoc files (snapshot: 217) - Apache Wicket - Component-based Java web framework
+https://github.com/CloudI/CloudI  # 200 AsciiDoc files (snapshot: 199) - A Cloud at the lowest level!
+https://github.com/japila-books/apache-spark-internals  # 84 AsciiDoc files (snapshot: 186) - The Internals of Apache Spark
+https://github.com/apache/ant-ivy  # 177 AsciiDoc files (snapshot: 176) - Mirror of Apache Ant Ivy
+https://github.com/redhat-cop/agnosticd  # 700 AsciiDoc files (snapshot: 176) - AgnosticD - Ansible Deployer for multiple Cloud Deployers
+https://github.com/esig/dss  # 308 AsciiDoc files (snapshot: 165) - Digital Signature Service : creation, extension and validation of advanced electronic signatures
+https://github.com/ngageoint/hootenanny  # 164 AsciiDoc files (snapshot: 163) - Hootenanny conflates multiple maps into a single seamless map.
+https://github.com/inverse-inc/packetfence  # 187 AsciiDoc files (snapshot: 155) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.
+https://github.com/griffon/griffon  # 153 AsciiDoc files (snapshot: 153) - Next generation desktop application development platform for the JVM
+https://github.com/wildfly/wildfly-capabilities  # 150 AsciiDoc files (snapshot: 148) - Registry of capabilities accessible via the management layer of a WildFly Core base server
+https://github.com/asciidoctor/asciidoctorj  # 168 AsciiDoc files (snapshot: 148) - :coffee: Java bindings for Asciidoctor. Asciidoctor on the JVM!
+https://github.com/LinuxCNC/linuxcnc  # 380 AsciiDoc files (snapshot: 146) - LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.
+https://github.com/Swagger2Markup/swagger2markup  # 201 AsciiDoc files (snapshot: 145) - A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentation.
+https://github.com/BitcoinDictionary/bitcoindictionary  # 145 AsciiDoc files (snapshot: 145) - The Bitcoin Dictionary is a collection of definitions of Bitcoin-related terms for the community of Bitcoin users, developers, businesses as well as anyone interested in Bitcoin. As of now, there is no single authoritative source of standardised definition of the terms that the people in the Bitcoin community are continually coming up with. This project aims to solve this problem by putting the definition of all the Bitcoin related terms in one place.
+https://github.com/TheVasin/good-songs-to-play  # 169 AsciiDoc files (snapshot: 144) - Good songs to play. With guitar chords.
+https://github.com/Talend/component-runtime  # 130 AsciiDoc files (snapshot: 144) - Talend Component Kit (implementation repository)
+https://github.com/util-linux/util-linux  # 170 AsciiDoc files (snapshot: 140)
+https://github.com/Normation/rudder-tools  # 374 AsciiDoc files (snapshot: 139)
+https://github.com/uDeviceX/uDeviceX  # 184 AsciiDoc files (snapshot: 136) - The In Silico Lab-On-A-Chip
+https://github.com/vassalengine/vassal  # 142 AsciiDoc files (snapshot: 126) - VASSAL, the open-source boardgame engine
+https://github.com/cerberustesting/cerberus-core  # 135 AsciiDoc files (snapshot: 120) - The Open Source Test Automation Platform.
+https://github.com/eclipse-n4js/n4js  # 83 AsciiDoc files (snapshot: 118)
+https://github.com/killbill/killbill-docs  # 180 AsciiDoc files (snapshot: 116) - Kill Bill documentation
+https://github.com/kiegroup/optaplanner-website  # 129 AsciiDoc files (snapshot: 115) - The sources for the website https://www.optaplanner.org (using JBake and Antora) and the presentation sources.
+https://github.com/jmini/asciidoctorj-experiments  # 183 AsciiDoc files (snapshot: 114) - Experiments with Asciidoctorj
+https://github.com/Netflix/genie  # 113 AsciiDoc files (snapshot: 113) - Distributed Big Data Orchestration Service
+https://github.com/jboss-openshift/application-templates  # 63 AsciiDoc files (snapshot: 112) - OpenShift application templates supporting JBoss Middleware based applications.
+https://github.com/locationtech/geowave  # 74 AsciiDoc files (snapshot: 111) - GeoWave provides geospatial and temporal indexing on top of Accumulo, HBase, BigTable, Cassandra, Kudu, Redis, RocksDB, and DynamoDB.
+https://github.com/docToolchain/docToolchain  # 154 AsciiDoc files (snapshot: 109) - a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation
+https://github.com/apache/cassandra  # 232 AsciiDoc files (snapshot: 106) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
+https://github.com/webanno/webanno  # 105 AsciiDoc files (snapshot: 103) - 🆕 Work continues on INCEpTION 👉 https://github.com/inception-project/inception 👈 -- ⚠️ The official WebAnno repository has reached the end of the line. -- 🚀 To migrate, export your annotation projects from WebAnno, then import them into INCEpTION and just work on.
+https://github.com/akhikhl/gretty-doc  # 102 AsciiDoc files (snapshot: 102) - Documentation for gretty
+https://github.com/bitkeeper-scm/bitkeeper  # 99 AsciiDoc files (snapshot: 99) - This is the master copy of the BitKeeper source
+https://github.com/citrusframework/citrus  # 139 AsciiDoc files (snapshot: 99) - Framework for automated integration tests with focus on message-based applications
+https://github.com/quintel/etengine  # 141 AsciiDoc files (snapshot: 98) - Calculation engine of the Energy Transition Model
+https://github.com/revapi/revapi  # 109 AsciiDoc files (snapshot: 98) -  Revapi is an API analysis and change tracking tool written in Java. Its focus is mainly on Java language itself but it has been specifically designed to not be limited to just Java. API is much more than just java classes - also various configuration files, schemas, etc. can contribute to it and users can become reliant on them.
+https://github.com/ShapeChange/ShapeChange  # 99 AsciiDoc files (snapshot: 93) - Processing application schemas for geographic information
+https://github.com/alexis-hassler/blog  # 111 AsciiDoc files (snapshot: 93)
+https://github.com/Blazebit/blaze-persistence  # 104 AsciiDoc files (snapshot: 92) - Rich Criteria API for JPA providers
+https://github.com/eset/malware-ioc  # 162 AsciiDoc files (snapshot: 92) - Indicators of Compromises (IOC) of our various investigations
+https://github.com/oliviercailloux/java-course  # 87 AsciiDoc files (snapshot: 90) - Course about Java and Java EE
+https://github.com/MSO4SC/book.mso4sc.eu  # 120 AsciiDoc files (snapshot: 87) - Website for Pilots description
+https://github.com/clojure/clojurescript-site  # 95 AsciiDoc files (snapshot: 87) - website for ClojureScript
+https://github.com/couchbase/couchbase-cli  # 96 AsciiDoc files (snapshot: 87) - Command Line tools for Administering a Couchbase Cluster
+https://github.com/decidim/decidim  # 159 AsciiDoc files (snapshot: 86) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
+https://github.com/aim42/aim42  # 84 AsciiDoc files (snapshot: 84) - public repository for the "architecture improvement method reference"
+https://github.com/diguage/jdk-source-analysis  # 83 AsciiDoc files (snapshot: 83) - JDK 源码分析
+https://github.com/Flank/flank  # 83 AsciiDoc files (snapshot: 83) - :speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab
+https://github.com/forge/docs  # 87 AsciiDoc files (snapshot: 83) - Documentation repository for JBoss Forge
+https://github.com/apache/tinkerpop  # 100 AsciiDoc files (snapshot: 82) - Apache TinkerPop - a graph computing framework
+https://github.com/ironbee/ironbee  # 82 AsciiDoc files (snapshot: 82) - Universal web application security sensor intended for real-time monitoring and defense.
+https://github.com/xtuml/bridgepoint  # 99 AsciiDoc files (snapshot: 81) - The BridgePoint eclipse plugins
+https://github.com/wireshark/wireshark  # 92 AsciiDoc files (snapshot: 81) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
+https://github.com/jpos/jPOS  # 81 AsciiDoc files (snapshot: 79) - jPOS Project
+https://github.com/ConSol/sakuli  # 78 AsciiDoc files (snapshot: 78) - Sakuli is an end-2-end testing and monitoring tool for web sites and common UIs with multiple monitoring integrations
+https://github.com/apache/syncope  # 65 AsciiDoc files (snapshot: 76) - Apache Syncope
+https://github.com/dataphor/Dataphor  # 76 AsciiDoc files (snapshot: 76) - Dataphor Federated Database Management System
+https://github.com/GoogleCloudPlatform/spring-cloud-gcp  # 81 AsciiDoc files (snapshot: 73) - New home for Spring Cloud GCP development starting with version 2.0.
+https://github.com/neo4j-examples/graphgists  # 71 AsciiDoc files (snapshot: 71) - Reference Graph Gists
+https://github.com/asciidoctor/asciidoctor-epub3  # 83 AsciiDoc files (snapshot: 70) - :blue_book: Asciidoctor EPUB3 is a set of Asciidoctor extensions for converting AsciiDoc to EPUB3
+https://github.com/asciidoctor/asciidoctor-maven-plugin  # 92 AsciiDoc files (snapshot: 69) - A Maven plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.
+https://github.com/pietermartin/sqlg  # 423 AsciiDoc files (snapshot: 69) - TinkerPop graph over sql
+https://github.com/jooby-project/jooby  # 100 AsciiDoc files (snapshot: 68) - The modular web framework for Java and Kotlin
+https://github.com/skoba/mml  # 68 AsciiDoc files (snapshot: 68) - Medical Markup Language
+https://github.com/kordamp/ikonli  # 64 AsciiDoc files (snapshot: 62) - Icon packs for Java applications
+https://github.com/gvSIGAssociation/gvsig-roads-website  # 59 AsciiDoc files (snapshot: 59) - Website for the gvsig-roads product
+https://github.com/ozoneplatform/omp-marketplace  # 59 AsciiDoc files (snapshot: 59) - OZONE Marketplace
+https://github.com/OpenHFT/Chronicle-Queue  # 63 AsciiDoc files (snapshot: 59) - Micro second messaging that stores everything to disk
+https://github.com/ninenines/gun  # 67 AsciiDoc files (snapshot: 57) - HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.
+https://github.com/cometd/cometd  # 57 AsciiDoc files (snapshot: 57) - The CometD project, a scalable comet (server push) implementation for web messaging.
+https://github.com/fmarchioni/mastertheboss  # 95 AsciiDoc files (snapshot: 56) - Source code for mastertheboss.com
+https://github.com/DozerMapper/dozer  # 54 AsciiDoc files (snapshot: 55) - Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. 
+https://github.com/vaadin/framework  # 258 AsciiDoc files (snapshot: 55) - Vaadin 6, 7, 8 is a Java framework for modern Java web applications.
+https://github.com/esfand/rsyslogdocs  # 135 AsciiDoc files (snapshot: 55) - Rsyslog Documentation
+https://github.com/Tendrl/specifications  # 54 AsciiDoc files (snapshot: 54) - Tendrl specs go here
+https://github.com/fabric8io/docker-maven-plugin  # 53 AsciiDoc files (snapshot: 53) - Maven plugin for running and creating Docker images
+https://github.com/asciidoctor/asciidoctor-gradle-plugin  # 146 AsciiDoc files (snapshot: 52) - A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.
+https://github.com/ninenines/cowboy  # 150 AsciiDoc files (snapshot: 52) - Small, fast, modern HTTP server for Erlang/OTP.
+https://github.com/xtuml/mc  # 61 AsciiDoc files (snapshot: 52) - model compiler arcs, support files, and interface plug-ins
+https://github.com/asciidoctor-contrib/asciidoctor-latex  # 52 AsciiDoc files (snapshot: 51) - :triangular_ruler: Add LaTeX features to AsciiDoc & convert AsciiDoc to LaTeX
+https://github.com/camac/BuildXPages  # 51 AsciiDoc files (snapshot: 51) - Tools for Building XPages Automatically
+https://github.com/werval/werval  # 50 AsciiDoc files (snapshot: 50) - werval core, gradle & maven plugins, modules and distribution
+https://github.com/arc42/HHGDAC  # 61 AsciiDoc files (snapshot: 50) - Hitchhikers Guide to Docs-as-Code - Code + Infos zur JavaMagazin-Kolumne von R.D. Müller und G.Starke
+https://github.com/arc42/arc42-template  # 213 AsciiDoc files (snapshot: 50) - arc42 - the template for software architecture documentation and communication

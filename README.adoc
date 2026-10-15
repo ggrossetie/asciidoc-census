@@ -61,6 +61,20 @@ They are grouped to balance the corpus:
 
 Each report lists the analyzed repositories with their commit, so results can be reproduced.
 
+New repositories can be discovered with BigQuery:
+
+. Run `queries/asciidoc-repositories.sql` in the BigQuery console and export the result as CSV.
+It lists the repositories of the public `bigquery-public-data.github_repos` snapshot that contain many AsciiDoc files.
+It only reads file paths, not contents.
+The dataset has no fork flag, so each file is attributed to the repository that has the most AsciiDoc files among those containing it: forks and copies end up with few files.
+. Check the candidates against GitHub (requires the `gh` CLI), since the snapshot is old: forks, archived and missing repositories are skipped, and AsciiDoc files are counted at the current HEAD.
+Repositories already listed in `sources.txt` are skipped too, as well as excluded ones: a line starting with `!` (e.g. `!https://github.com/quintel/etsource`) marks a false positive that is never cloned nor proposed again.
++
+[source,console]
+----
+$ node bin/adoc-census.js discover candidates.csv --min 50 --limit 100 >> sources.txt
+----
+
 Other sources are planned, to add volume and recency:
 
 BigQuery:: The public `bigquery-public-data.github_repos` dataset would provide volume.
