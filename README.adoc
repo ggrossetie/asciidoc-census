@@ -1,0 +1,96 @@
+= AsciiDoc Census
+:toc: macro
+:toc-title: Contents
+ 
+Measure how AsciiDoc is actually written in the wild.
+ 
+adoc-census collects publicly available AsciiDoc documents and analyzes real-world usage of specific syntax patterns.
+Its goal is to inform the https://gitlab.eclipse.org/eclipse/asciidoc-lang/asciidoc-lang[AsciiDoc Language Specification] with data rather than intuition: when a question comes up ("does anyone rely on X?"), we answer with numbers and concrete examples.
+ 
+toc::[]
+ 
+== Why
+ 
+Specifying a language that has been in use for years means deciding which existing behaviors to keep, clarify, or deprecate.
+Those decisions are easier, and more credible, when they are backed by evidence of how authors use the syntax today.
+ 
+Typical questions:
+ 
+* Which operators and operand types appear in `ifeval::[]` expressions?
+* How often do documents rely on implicit type coercion?
+* Which `include::[]` attributes are used, and in which combinations?
+* Are some edge cases used at all, or only in test suites?
+ 
+== How it works
+ 
+The project separates three concerns:
+ 
+Corpus:: AsciiDoc files are collected once and cached, along with their provenance (repository, commit, path).
+Analyses run against the cached corpus without downloading anything again.
+ 
+Studies:: Each question is a study: an extraction pattern and a classification function, declared in its own file.
+Adding a new question should not require touching the collection code.
+ 
+Reports:: Each study produces aggregated figures, and every figure links back to concrete examples (file and line), so results can be checked and discussed.
+ 
+== Usage
+
+Requires Node.js 20 or later, and Git for fetching the corpus. There are no dependencies to install.
+
+[source,console]
+----
+$ node bin/adoc-census.js fetch                  # shallow, sparse clones of sources.txt into .cache/repos
+$ node bin/adoc-census.js run ifeval             # analyze .cache/repos
+$ node bin/adoc-census.js run ifeval ~/projects  # or any files/directories
+$ node bin/adoc-census.js run ifeval -f adoc -o ifeval.adoc   # formats: text, adoc, html, json
+----
+
+Options: `--examples <n>` (examples per value, taken from distinct repositories), `--limit <n>` (values per table).
+
+A study is a module in `lib/studies/` that declares an `extract(line)` function, a `classify(record, context)` function and the dimensions to aggregate; see `lib/studies/ifeval.js`.
+
+== Sources
+ 
+The corpus is built from complementary sources:
+ 
+BigQuery:: The public `bigquery-public-data.github_repos` dataset provides volume.
+It is an older snapshot, so it is mostly useful for broad statistics.
+ 
+Code search:: GitHub code search (via `gh search code`) and similar services provide recent data, within their result limits.
+ 
+Targeted clones:: Shallow clones of large documentation projects (Spring, Quarkus, Hibernate, Debezium, OpenShift, Fedora, Antora-based sites, ...) provide depth on how documentation teams write AsciiDoc.
+ 
+== Methodology
+ 
+* Results are deduplicated by repository: forks and vendored copies would otherwise inflate counts.
+* Figures are reported as "number of repositories using a form", not only as raw occurrence counts.
+* Expressions are normalized (whitespace, quoting) before aggregation, while the original text is kept for examples.
+* Malformed or ambiguous usages are reported explicitly rather than discarded: they are often the most useful input for the specification.
+ 
+== Studies
+ 
+=== ifeval
+ 
+The first study looks at `ifeval::[]` expressions and classifies them by:
+ 
+* operator: `==`, `!=`, `<`, `\<=`, `>`, `>=`, or invalid;
+* operand type: double-quoted string, single-quoted string, bare number, bare attribute reference, boolean, other;
+* use of attribute references that may be undefined or contain quotes.
+ 
+The output is an operator × operand type matrix, used to delimit a well-defined core (string comparison on substituted values) from forms that depend on implicit coercion.
+ 
+== Relationship with the TCK
+ 
+Real-world usages that are interesting or ambiguous are good candidates for test cases in the https://gitlab.eclipse.org/eclipse/asciidoc-lang/asciidoc-tck[AsciiDoc TCK].
+Reports should make it easy to turn an example into a test case.
+ 
+== Contributing
+ 
+Have a question about AsciiDoc usage that the specification work needs answered?
+Open an issue describing the pattern and what you want to know, or contribute a study.
+ 
+== Privacy and licensing
+ 
+Only publicly available documents are analyzed.
+Reports quote short excerpts for illustration and always link to the original source.
+The collected corpus itself is not redistributed.

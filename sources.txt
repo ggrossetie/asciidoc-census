@@ -1,0 +1,46 @@
+# Repositories cloned by `adoc-census fetch` (one URL per line).
+# Large documentation projects, to measure how documentation teams write AsciiDoc.
+https://github.com/asciidoctor/asciidoctor
+https://github.com/asciidoctor/asciidoctor-pdf
+https://github.com/asciidoctor/asciidoctor.js
+https://github.com/spring-projects/spring-framework
+https://github.com/spring-projects/spring-boot
+https://github.com/spring-projects/spring-security
+https://github.com/quarkusio/quarkus
+https://github.com/hibernate/hibernate-orm
+https://github.com/debezium/debezium
+https://github.com/openshift/openshift-docs
+https://github.com/keycloak/keycloak
+https://github.com/eclipse-vertx/vert.x
+https://github.com/neo4j/docs-cypher
+https://github.com/couchbase/docs-server
+https://github.com/apache/camel
+https://github.com/infinispan/infinispan
+https://github.com/wildfly/wildfly
+https://github.com/jenkinsci/jenkins.io
+https://github.com/apache/groovy
+https://github.com/gradle/gradle
+https://github.com/eclipse-che/che-docs
+https://github.com/hazelcast/hz-docs
+https://github.com/jakartaee/jakartaee-tutorial
+https://github.com/asciidoctor/asciidoctor-intellij-plugin
+
+# Red Hat product documentation (besides OpenShift, Keycloak, Debezium, ... above).
+https://github.com/ansible/aap-docs
+https://github.com/redhat-developer/red-hat-developers-documentation-rhdh
+https://github.com/strimzi/strimzi-kafka-operator
+https://github.com/redhat-documentation/supplementary-style-guide
+
+# Specifications and documentation outside the Java ecosystem.
+https://github.com/git/git
+https://github.com/riscv/riscv-isa-manual
+https://github.com/KhronosGroup/Vulkan-Docs
+https://github.com/raspberrypi/documentation
+https://github.com/clojure/clojure-site
+
+# Books, to measure how individual authors write AsciiDoc.
+https://github.com/thom4parisot/nodebook
+https://github.com/joshlong/spring-authorization-server-book
+https://github.com/progit/progit2
+https://github.com/bitcoinbook/bitcoinbook
+https://github.com/lnbook/lnbook

@@ -1,0 +1,16 @@
+{
+  "name": "asciidoc-census",
+  "version": "0.1.0",
+  "description": "Measure how AsciiDoc is actually written in the wild",
+  "type": "module",
+  "bin": {
+    "adoc-census": "bin/adoc-census.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

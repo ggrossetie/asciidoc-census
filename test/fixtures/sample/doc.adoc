@@ -1,0 +1,33 @@
+= Sample
+:product: "Acme"
+:version: 2
+
+ifeval::["{backend}" == "html5"]
+html
+endif::[]
+
+ifeval::[{version} >= 2]
+v2
+endif::[]
+
+ifeval::['{product}' == "Acme"]
+endif::[]
+
+ifeval::[{sectnums}==true]
+endif::[]
+
+ifeval::[{asciidoctor-version} < 1.5.8]
+endif::[]
+
+ifeval::[{foo}]
+endif::[]
+
+ifeval::foo["a" == "b"]
+endif::[]
+
+ifeval::[]
+endif::[]
+
+\ifeval::["a" == "b"]
+
+ifeval::["{distro}" == "rhel"] trailing
