@@ -100,6 +100,14 @@ The first study looks at `ifeval::[]` expressions and classifies them by:
 * use of attribute references that may be undefined or contain quotes.
  
 The output is an operator × operand type matrix, used to delimit a well-defined core (string comparison on substituted values) from forms that depend on implicit coercion.
+
+=== ifeval-empty
+
+This study answers a question raised by SDR-9: should an unquoted operand that resolves to nothing (`{missing}`, or an attribute set to an empty value) be the empty string, or a distinct "no value" like Asciidoctor's `nil`?
+It extracts the `ifeval::[]` expressions with an unquoted operand made only of attribute references, and classifies them by:
+
+* case: the expressions whose result differs between the two options (compared with `==` or `!=` to `""`, to a quoted operand that may be empty, or to another unquoted reference; ordered against a string or a reference), and the ones that give the same result;
+* how the referenced attributes are defined in the repository: with an empty value, only with non-empty values, or never (defined externally or undefined).
  
 == Relationship with the TCK
  
