@@ -7,10 +7,14 @@
     "adoc-census": "bin/adoc-census.js"
   },
   "scripts": {
+    "lint": "biome lint",
     "test": "node --test"
   },
   "engines": {
     "node": ">=20"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "2.6.9"
+  }
 }
