@@ -48,6 +48,8 @@ $ node bin/adoc-census.js run ifeval -f adoc -o ifeval.adoc   # formats: text, a
 Options: `--examples <n>` (examples per value, taken from distinct repositories), `--limit <n>` (values per table).
 
 A study is a module in `lib/studies/` that declares an `extract(line)` function, a `classify(record, context)` function and the dimensions to aggregate; see `lib/studies/ifeval.js`.
+A study that needs more than one line at a time (for instance to look at the document header) declares `extractDocument(lines)` instead of `extract(line)`.
+See `AGENTS.md` for the full contract and the conventions to follow when writing a study.
 
 == Sources
  
