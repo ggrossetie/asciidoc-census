@@ -62,7 +62,7 @@ if (opts.help || !command) {
   const format = formats[opts.format] ?? fail(`unknown format: ${opts.format} (expected ${Object.keys(formats).join(', ')})`)
   const result = runStudy(study, paths.length ? paths : [opts.cache], { examples: Number(opts.examples) })
   const output = format(result, opts.limit ? { limit: Number(opts.limit) } : {})
-  if (opts.output) writeFileSync(opts.output, output + '\n')
+  if (opts.output) writeFileSync(opts.output, `${output}\n`)
   else console.log(output)
 } else {
   fail(`unknown command: ${command}\n\n${USAGE}`)
