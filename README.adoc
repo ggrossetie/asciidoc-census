@@ -110,7 +110,20 @@ It extracts the `ifeval::[]` expressions with an unquoted operand made only of a
 
 * case: the expressions whose result differs between the two options (compared with `==` or `!=` to `""`, to a quoted operand that may be empty, or to another unquoted reference; ordered against a string or a reference), and the ones that give the same result;
 * how the referenced attributes are defined in the repository: with an empty value, only with non-empty values, or never (defined externally or undefined).
- 
+
+=== header-empty-lines
+
+This study answers the questions of SDR-12 (Allow Empty Lines in the Document Header): which documents would see their header change if empty lines between header lines were ignored above and below the document title, and the header ended at the first line that is neither empty nor a header line?
+It follows Asciidoctor's header parsing and classifies the documents by:
+
+* change: attribute entries (or only an include directive, or only comments) after an empty line below the title, which move from the body to the header; attribute entries or comments between the title and the line Asciidoctor reads as the author line, or between the author and revision lines, which make that line a paragraph; and, in documents without a title, attribute entries after block metadata, which move from the header to the body;
+* effect of the moved attribute entries: whether one of them only takes effect in the header (as listed in the Document Attributes Reference, plus Antora's `page-*` attributes);
+* whether the line read as the author line looks like an author line at all;
+* document shape: with or without a title, empty lines between header lines above the title, title metadata separated from the title.
+
+Preprocessor conditionals are ignored (all branches are assumed to be enabled), and include directives are reported separately, since the included content isn't known.
+Most files without a title are partials, whose leading attribute entries are only header entries when the file is converted on its own.
+
 == Relationship with the TCK
  
 Real-world usages that are interesting or ambiguous are good candidates for test cases in the https://gitlab.eclipse.org/eclipse/asciidoc-lang/asciidoc-tck[AsciiDoc TCK].

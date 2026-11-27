@@ -1,0 +1,7 @@
+:product: Acme
+[#intro.big]
+:toc: left
+
+== Install
+
+Run the installer.
